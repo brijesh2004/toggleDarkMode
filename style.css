@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+   transition: 2s;
+}
+#box{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    display: flex;
+    background: white;
+    border-radius: 20px;
+  justify-content: left;
+  transition: 2s;
+}
+#circle{
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 2s;
+    
+}
